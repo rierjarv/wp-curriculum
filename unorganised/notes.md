@@ -25,80 +25,73 @@ Note: some videos in this course might be longer than optimal, since they are cr
     
 ## Learning targets 
     
-What is meant by a **Proficient WP user**`? Let's list some key details 
-• can
-    ○ edit a wordpress site 12.3.2023
+### What is meant by a **Proficient WP user**`? Let's list some key details 
+
+can edit a wordpress site 
+
+**TODO**
     
-Beginner WP developer
-• can
-    ○ utilise wp-cli command line for basic tasks
-        § TODO example, test what works (e.g. backup)
-    ○ edit HTML and CSS
-    ○ create a simple plugin for WP with JS language
-        § TODO example
-    ○ learn new things that require a basic developer level understanding
-• cannot
-    ○ wp-cli command line for advanced tasks
-        § TODO example
-    ○ create complex plugins requiring advanced JS / PHP,
-    ○ CSS layout hacks
-        § e.g. negative margins TODO link
-    ○ TODO more content here
-    ○ Git version control "mastery"
-    ○ Do custom installations of wordpress to a given server
+### What is meant by a **Beginner WP developer**?
+
+**TODO**
+
+The developer can: 
+
+- utilise wp-cli command line for basic tasks
+  - **TODO** examples of tasks (e.g. backup)
+- edit basic HTML and CSS
+- create a simple plugin for WP with JS language
+  - TODO example
+- learn new developer things that require basic developer level understanding
+
+The developer (probably) cannot
+- utilise wp-cli command line for advanced tasks
+  - TODO example
+- create complex plugins requiring advanced JS / PHP,
+- performa magical CSS layout hacks
+  - e.g. hack CSS with negative margins to "trick" an image to be aligned optically with border X
+  - TODO more content here
+- Git version control "mastery"
+- Do custom installations of wordpress to a given server
+- Offer WordPress as a service to potential clients
     
-Benefits of starting one's web development career with Wordpress
-• learn
-    ○ through a visual approach. In IT, this is termed as the "what you see is what you get" (WYSISYG) approach
-    ○ general web related concepts (in wordpress setting), such as hosting, server, eCommerce, back-end, front-end, developer, administrator
-    ○ general development concepts and abbreviations, such as
-        § requirement, convention, best practice, principle of least privilege, consistency
-        § layout, visualization,
-        § accessibility, integration,
-        § service (paid / free), function, action, hook,
-        § server, file system, code base
-        § client, server, editor, IDE, CLI, CDN
-        § developing, refactoring, debugging, versioning, programming, monitoring (nouns); development, operations (subjects)
-        § hosting, support, install, update, troubleshoot
+## # Benefits of starting one's web development career with Wordpress
+
+With WordPress, you learn through a visual approach. In IT, this is termed as "what you see is what you get" (WYSISYG). While most of the time learning wp is not code-based development work, on your way you do likely learn 
+
+- general web related concepts, such as hosting, server, eCommerce, back-end, front-end, developer, database 
+- IT personnel roles, such as administrator, developer, tester, user
+- development work and workflow related concepts, such as a requirement, convention, best practice, principle of least privilege, consistency, design pattern
+- a boatload of abbreviations, e.g. IDE, CLI, CDN, REST, API, CRUD, AJAX,
+- general development work related concepts and abbreviations, such as layout, visualization, accessibility,, service (paid / free), function, action, hook, server, file system, code base, client, server, editor,  nginx, Apache,
+- Programmning and markup languages of the web, e.g. HTML, CSS, JSON, JavaScript, PHP, MySQL
+- different types of development work, such as refactor, debug, version, program, monitor, operate, review, integrate
+- web services, such as hosting, support,
+- abstractions of 
+- most common development work operations, such as install, update, troubleshoot 
         § staging, production, publishing
-        § REST, API, CRUD, AJAX,
-        § open source, community
-        § Programmning and markup languages: HTML, CSS, JSON, JavaScript, PHP, MySQL
-        § plugin, theme, template, pattern, internationalisation, localisation, default, preset
-        § nginx, Apache, 
-    ○ a general view of things related to web development especially, e.g.
-        § front-end, back-end, database
-        § website design
-        § push notifications
-        § dynamic content
-        § automation
-        § website analytics
-        § performance
-        § integrations (e.g. services, social media)
-        § Search Engine optimisation (SEO)
-        § paid vs free things (plugins, templates, functionalities, etc)
+- important user considerations, such as internationalisation, localisation, accessibility
+- development work related abstract concepts, such as plugin, theme, template, pattern, default, preset         
+§ open source, community
+- areas of focus in development work, such as design, (dynamic) content, notifications, automation, analytics, performance, integrations, search engine optimisation,
+
+Also, In my experience it is worthwile to understand that in tech, a lot of details on a given matter are usually present, and the skill to differentiate between close to very similar things is essential. It is IMHO required to develop such a skill while working.
 
 
-• also learn that in tech, in general that a lot of details present, and skill to differentiate between close to similar things is essential (required to develop such a skill)
-•  
-• introduce development work related things, such as
-    ○  
-    ○ conventions
-• learn programming basics (develop wordpress)
+## Learning Approach and the Phases of the Curriculum
     
-[] Learning approach and the Phases of curriculum
+A well-known learning taxonomy was developed by Benjamin Bloom that (in it's 1999 revised form) identifies six objectives for learning: remember, understand, apply, analyze, evaluate, and create. In essence, one could say that using a mimicking learning approach to master a given work task in comparison to creating it from scratch takes considerably less time and effort.
+
+This curriculum introduces four (4) phases of learning, as follows: 
     
-Bloom's taxonomy in developing skills (remember, understand, apply, analyze, evaluate, create) + show image
-    
-(present different phases as an infograph with high level abstraction view)
-    
-Phase I Get to know Wordpress
-Phases II => Essentials of WP in practice
-Phases III => Core WP skills
-Phase IV => Expanding WP proficiency
-e.g. with payment handling, creating a WP plugin, etc.
-    
-Phase I: Get to know Wordpress
+- Phase I: Get to know Wordpress
+- Phase II: Essentials of WP in practice
+- Phase III: Core WP skills
+- Phase IV: Expanding WP proficiency
+
+Let's go over the phases and their content by taking a high-level view. 
+
+### Phase I Get to know Wordpress
 • remember, understand
 • using wordpress
     ○ who uses wordpress?
