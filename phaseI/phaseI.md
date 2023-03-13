@@ -1,6 +1,6 @@
 
 
-## Set up WordPress with free hosting 
+## Set up WordPress with free trial hosting 
 
 The service (https://www.namecheap.com/wordpress/)[Namecheap] has been around for quite some time and offers a free trial of 30 days wp hosting. 
 
@@ -11,3 +11,4 @@ and you should have a site that looks similar to the one below:
 
 > Note. While creating the Namecheap account, you need to set up a payment method. e.g. paypal or credit card. In case you cannot perform this step, utilise another free wp hosting provider.
 
+## Register Skilljet Academy free account 
