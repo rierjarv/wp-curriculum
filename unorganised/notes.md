@@ -13,16 +13,15 @@ If you are keen on learning the ins and outs of Wordpress, I sincerely hope you 
 
 Here is presented an outline to learn Wordpress, and if followed diligently, the learner shall likely become a proficient WP user and a beginner WP developer in around 3 months of time. And also able to learn more advanced WordPress topics later.
     
-The target audience for this curriculum is a person with higher level educational degree, e.g. university, but with no previous technical or IT experience. Interest in learning the IT field is a fundamental prerequisite. Another prerequisite is basic computer and internet skills (how to find information online and utilise it in useful manner).
+The target audience for this curriculum is a person with higher level educational degree, e.g. university, but with no previous technical or IT experience. Interest in learning the IT field is a fundamental prerequisite. Another prerequisite is basic computer and internet skills, such as how to find information online and utilise it in useful manner, or how to create a user account to use a web-based service (e.g. WordPress site hosting).
 	 
-Note on the nomenclature: I will use the general term "thing" to describe a concept, a functional whole, a way of working, a convention, or a similar entity that is related to the tech field. The abbreviation "WP" or "wp" is used to describe WordPress in the later parts of this curriculum.
+A brief note on the nomenclature. I will use the general term "thing" to describe a concept, a functional whole, a way of working, a convention, or a similar entity that is related to the tech field. The abbreviation "WP" or "wp" is used to describe WordPress in the later parts of this curriculum.
 
 > IMPORTANT. This project is not associated with wordpress.com, wordpress.org, wordpress.tv or other official wordpress entities. 
-> Hence > the abbreviation "wp", as recommended to be used on site wordpress.org. 
-> Nevertheless, this content is available for utilisation or even forking by anyone who is interested in developing a wordpress curriculum. 
-    
-Note: some videos in this course might be longer than optimal, since they are created in real situations where issues arise. These issues are solved and not just fast-forwarded, to illustrate the reality in IT work.
-    
+> Hence the abbreviation "wp", as recommended to be used on site wordpress.org. 
+> 
+> Nevertheless, this content is available for anyone interested. I do welcome contributions to this repository and forking the repo is also an option, if you are creating a wp curriculum and wish to re-organize the content a lot.  
+        
 ## Learning targets 
     
 ### What is meant by a **Proficient WP user**`? Let's list some key details 
