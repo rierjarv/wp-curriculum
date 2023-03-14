@@ -87,49 +87,54 @@ Let's go over the phases and their content by taking a high-level view.
 
 ### Phase I: Get to know Wordpress
 
-The first phase is targeted at anyone who wishes to get an overview look on wp, with small hands on testing on the side. Phase I contains 
+The first phase is targeted at anyone who wishes to get an overview look on wp, with small hands on testing on the side. This phase is mostly about remembering and understanding information, with small practical tasks to get to know wp essentials as accompaniment. Phase I contains 
 
 - Set up WordPress with free trial hosting
 - Sign up to Skilljet Academy and take a crash course on wp works (wp101) 
+
 - Theory section: read and watch videos on Wordpress 
 - **TODO **  
 - Quiz at the end of Phase I
 
-• remember, understand: 
-• using wordpress
-    ○ who uses wordpress?
-    ○ what can wp be used for?
-• developing wordpress
-    ○ what can be developed?
-    ○ why/how are things developed?
-• theory and videos
-• questions during course, quiz at the end
-    
+Phase I tries to answer questions such as 
+
+Using wordpress: who uses wordpress?, what can wp be used for?
+
+Developing wordpress: what can be developed? why/how are things developed?    
+
+Time duration: 1 week 
     
 ### Phase II: Essentials of WP in practice
 
-create a simple wp site
-  get to know the essentials in practice
-  free WP themes and plugins
+- create a simple wp site
+  - get to know more of the essentials in practice
+  - utilise free WP themes and plugins
 
-learn core concepts by doing + reading theory
-  step by step instructions on tasks to do + quizzes
-  reading + quizzes
+- learn core concepts by doing + reading theory
+  - step by step instructions on tasks to do + quizzes
+  - reading + quizzes
+
+  time allocation: 2 to 3 weeks
     
 ### Phase III: Core WP practical skills
 
 create a more complex wp site
 learn more on wp theory
-site management things: analytics, s, ...
+site management things: analytics, seo, ...
 automation: wp-cli
+
+time allocation: 3 to 4 weeks 
     
 ### Phase IV: Expanding WP proficiency
 
-select AT LEAST three of the modules, study time is 1 week per module
 create a third site, or extend the second with more advanced structures
+
+select AT LEAST three of the modules, study time is 1 week per module
 create a WP plugin
 elective modules contain
   payment handling
+
+  time allocation: 3 to 4 weeks 
             
     
     
