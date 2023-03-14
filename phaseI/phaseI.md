@@ -78,7 +78,7 @@ SkillJet Academy offers a free course on WordPress, the WP101. [Create a SkillJe
 
 After registering to the SkillJet Academy, enroll into the free course "WP101". Go through the videos and during watching, take small breaks to experiment with the WordPress features on the namecheap site created in the beginning of this phase.
 
-> Note. You not expected to know how to apply everything after the course, this is just for starters and to show what's up
+> Note. You are not expected to know how to apply everything that is taught after the course, this is just for starters and to show what's up
 
 
 ## Important links 
