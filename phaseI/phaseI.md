@@ -3,7 +3,6 @@
 > Time duration: 1 week i.e. 5 business days
 > Time off: 2 days i.e. weekend
 
-
 **TODO TOC**
 
 **TODO: structure the module as such that practical doing and theory are interrelated**
