@@ -9,8 +9,12 @@
 
 ## Getting introduced to WordPress
 
-This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
+> NOTE. This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
 
+What is WordPress? Start by exploring the following content.  
+
+- https://kinsta.com/knowledgebase/what-is-wordpress/
+  
 ## Set up WordPress with free trial hosting 
 
 The service (https://www.namecheap.com/wordpress/)[Namecheap] has been around for quite some time and offers a free trial of 30 days wp hosting. 
@@ -37,8 +41,7 @@ Phase I: Get to know Wordpress
 Content
 
 • motivation (how long does it take to learn wp, and what is included
-    ○ read  https://kinsta.com/knowledgebase/what-is-wordpress/
-        § TODO quiz + solutions
+    ○ 
     ○ read blogging intro:  https://wordpress.org/documentation/article/introduction-to-blogging/
         § TODO quiz + solutions
     ○ read  https://wpastra.com/resources/learning-wordpress/
@@ -50,9 +53,6 @@ Content
         § TODO quiz on the site, questions and answers read article again
     ○ read  https://learn.wordpress.org/lesson-plan/high-level-overview/
         § TODO quiz on the site, questions and answers read article again
-    ○ read  https://en.wikipedia.org/wiki/WordPress
-        § TODO quiz
-        § what are the improvements in the latest version (6.1) of wordpress? can you understand what they mean?
     ○ lesson  https://learn.wordpress.org/lesson-plan/general-history-of-wordpress/
         § TODO specifics
     ○ .com vs .org wordpress
