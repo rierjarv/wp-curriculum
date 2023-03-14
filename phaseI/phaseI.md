@@ -13,7 +13,7 @@ TODO reference solutions file
 
 ## Getting introduced to WordPress
 
-> NOTE. This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
+> NOTE. This section mostly deals with reading and watching videos. If you prefer to get into hands on testing of WordPress right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
 
 ### Wikipedia article on WordPress 
 

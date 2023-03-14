@@ -1,5 +1,7 @@
 # Solutions and answers to Phase I content 
 
+## Getting introduced to WordPress
+
 ### Solutions to: [Wikipedia article on WordPress](./phaseI.md#wikipedia-article-on-wordpress)
 
 1. 
