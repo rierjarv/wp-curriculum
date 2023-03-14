@@ -58,7 +58,7 @@ Read the article and write down answers to the following questions. Do googling 
   
 ## Set up WordPress with free trial hosting 
 
-(https://www.namecheap.com/wordpress/)[Namecheap] has been around for quite some time and offers a free trial of 30 days of wp hosting. 
+[Namecheap](https://www.namecheap.com/wordpress/) has been around for quite some time and offers a free trial of 30 days of wp hosting. 
 
 Create a Namecheap account and choose whatever settings you like for the wp site. Below, you'll see an example wp site view in Namecheap: 
 
