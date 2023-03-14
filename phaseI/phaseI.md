@@ -1,7 +1,7 @@
 ## Phase I Introduction 
 
-> Time duration: 1 week i.e. 5 business days
-> Time off: 2 days i.e. weekend
+**Time duration: 1 week i.e. 5 business days**
+**Time off: 2 days i.e. weekend**
 
 TODO reference solutions file
 
