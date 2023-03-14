@@ -7,6 +7,10 @@
 
 **TODO: structure the module as such that practical doing and theory are interrelated**
 
+## Getting introduced to WordPress
+
+This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](Set-up-WordPress-with-free-trial-hosting)
+
 ## Set up WordPress with free trial hosting 
 
 The service (https://www.namecheap.com/wordpress/)[Namecheap] has been around for quite some time and offers a free trial of 30 days wp hosting. 
