@@ -1,8 +1,6 @@
 # Solutions and answers to Phase I content 
 
-### Wikipedia article on WordPress 
-
-Questions: [Wikipedia article on WordPress](./phaseI.md#wikipedia-article-on-wordpress)
+### Solutions to: [Wikipedia article on WordPress](./phaseI.md#wikipedia-article-on-wordpress)
 
 1. 
 2. 
