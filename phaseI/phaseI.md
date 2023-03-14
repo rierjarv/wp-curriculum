@@ -15,9 +15,9 @@ TODO reference solutions file
 
 > NOTE. This section mostly deals with reading and watching videos. If you prefer to get into hands on testing of WordPress right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
 
-### Wikipedia article on WordPress 
+### [Wikipedia article on WordPress](https://en.wikipedia.org/wiki/WordPress)
 
-Read the wikipedia article on wordpress: [https://en.wikipedia.org/wiki/WordPress](https://en.wikipedia.org/wiki/WordPress). Write down answers to the following questions, and do googling as necessary (or discuss with a tech friend, or ChatGPT). 
+Read the article and write down answers to the following questions. Do googling as necessary, or discuss with a tech friend, or maybe [ChatGPT](https://chat.openai.com/chat). 
 
 1. What are the improvements in the latest version (6.1) of WordPress, in comparison with WordPress 6.0? Can you understand what they mean? Explain improvement X and improvement Y in your own words.
 2. 
@@ -25,9 +25,11 @@ Read the wikipedia article on wordpress: [https://en.wikipedia.org/wiki/WordPres
 4. 
 5. 
 
-Solutions: [Solutions to Wikipedia article on WordPress](./phaseI_solutions.md#wikipedia-article-on-wordpress).
+[Solutions to Wikipedia article on WordPress](./phaseI_solutions.md#wikipedia-article-on-wordpress).
 
+### Introduction to blogging
 ### Videos 
+
 What is WordPress? Start by exploring the following content.  
 
 
