@@ -3,6 +3,10 @@
 > Time duration: 1 week i.e. 5 business days
 > Time off: 2 days i.e. weekend
 
+TODO reference solutions file
+
+
+
 **TODO TOC**
 
 **TODO: structure the module as such that practical doing and theory are interrelated**
@@ -11,7 +15,19 @@
 
 > NOTE. This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
 
+### Wikipedia article on WordPress 
+
+Read the wikipedia article on wordpress: [https://en.wikipedia.org/wiki/WordPress](https://en.wikipedia.org/wiki/WordPress). Write down answers to the following questions, and do googling as necessary (or discuss with a tech friend, or ChatGPT). 
+
+1. What are the improvements in the latest version (6.1) of WordPress, in comparison with WordPress 6.0? Can you understand what they mean? Explain improvement X and improvement Y in your own words.
+2. 
+3. 
+4. 
+5. 
+
+### Videos 
 What is WordPress? Start by exploring the following content.  
+
 
 - https://kinsta.com/knowledgebase/what-is-wordpress/
   
