@@ -1,4 +1,12 @@
+## Phase I Introduction 
 
+> Time duration: 1 week i.e. 5 business days
+> Time off: 2 days i.e. weekend
+
+
+**TODO TOC**
+
+**TODO: structure the module as such that practical doing and theory are interrelated**
 
 ## Set up WordPress with free trial hosting 
 
@@ -16,14 +24,15 @@ After the setup, log in to *wpadmin* by clicking the right corner in the previou
 
 ## Register Skilljet Academy free account 
 
+## WP crash course: SkillJet WP101 
+
+After registering to the SkillJet Academy, enroll into the free course "WP101". Go through the videos and during watching, take small breaks to experiment with the WordPress features on the namecheap site created in the beginning of this phase.
+
 ## Unorganized 
 
 Phase I: Get to know Wordpress 
-Time duration: 1 week i.e. 5 business days
-Time off: 2 days i.e. weekend
 Content
-• Bloom's taxonomy: remember, understand
-• TODO: structure the module as such that practical doing and theory are interrelated
+
 • motivation (how long does it take to learn wp, and what is included
     ○ read  https://kinsta.com/knowledgebase/what-is-wordpress/
         § TODO quiz + solutions
