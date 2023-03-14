@@ -9,7 +9,7 @@
 
 ## Getting introduced to WordPress
 
-This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](Set-up-WordPress-with-free-trial-hosting)
+This section contains reading and watching videos. If you prefer to get hands on right away, go to section [Set up WordPress with free trial hosting](#set-up-wordpress-with-free-trial-hosting)
 
 ## Set up WordPress with free trial hosting 
 
