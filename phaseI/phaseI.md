@@ -25,6 +25,8 @@ Read the wikipedia article on wordpress: [https://en.wikipedia.org/wiki/WordPres
 4. 
 5. 
 
+Solutions: [Solutions to Wikipedia article on WordPress](./phaseI_solutions.md#wikipedia-article-on-wordpress).
+
 ### Videos 
 What is WordPress? Start by exploring the following content.  
 

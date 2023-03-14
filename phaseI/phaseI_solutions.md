@@ -2,7 +2,7 @@
 
 ### Wikipedia article on WordPress 
 
-These solutions are for the content [Wikipedia article on WordPress](./phaseI.md#wikipedia-article-on-wordpress)
+Questions: [Wikipedia article on WordPress](./phaseI.md#wikipedia-article-on-wordpress)
 
 1. 
 2. 
