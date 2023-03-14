@@ -1,4 +1,4 @@
-# Solutions and answers to Phase I content 
+# Solutions to Phase I content 
 
 ## Getting introduced to WordPress
 

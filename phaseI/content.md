@@ -1,4 +1,4 @@
-## Phase I Introduction 
+# Phase I
 
 **Time duration: 1 week i.e. 5 business days**
 
