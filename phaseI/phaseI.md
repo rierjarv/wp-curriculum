@@ -4,9 +4,13 @@
 
 **Time off: 2 days i.e. weekend**
 
-**TODO TOC**
+## TODOS
 
-**TODO: structure the module as such that practical doing and theory are interrelated**
+- incorporate learning of tech concepts into the Phase I curriculum 
+- add ToC
+- see video https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/ on whether it's suitable for Phase I
+
+
 
 ## Getting introduced to WordPress
 
@@ -16,8 +20,8 @@
 
 Read the article and write down answers to the following questions. Do googling as necessary, or discuss with a tech friend, or maybe [ChatGPT](https://chat.openai.com/chat).
 
-1. 
-2. 
+1. Do you need to be a programmer to make us of WordPress?
+2. How long does it take to learn to create new things with WordPress?
 3. 
 4. 
 5. 
@@ -80,6 +84,9 @@ After registering to the SkillJet Academy, enroll into the free course "WP101". 
 
 > Note. You are not expected to know how to apply everything that is taught after the course, this is just for starters and to show what's up
 
+## Check out WP sites
+
+The last part of phase I is to check out existing wp sites. You find them easily at [WordPress Showcase](https://wordpress.org/showcase/).
 
 ## Important links 
 
@@ -89,63 +96,22 @@ After registering to the SkillJet Academy, enroll into the free course "WP101". 
 - https://wordpress.org/support/forums/ . Discussion on wordpress related matters
 - https://wordpress.tv . Videos on contemporary wordpress related matters and topics on all levels (beginner, intermediate, advanced)
 
+
 ## Other material
 
 - [High level view of WordPress (lesson plan)](https://learn.wordpress.org/lesson-plan/high-level-overview/). A nice recap of essentials at this point in learning.
 
 ## Unorganized 
 
-    ○ read  
-        § As of Jan 2023, WordPress powers nearly 40% of all websites on the internet. It’s also risen 5% since this time last year.
-        § no need to be programmer to use workdpress
-        § if you do programming, you can develop WP things of your own
-            □ Q: what can you develop with WP?
-        § 3 to 6 months of study to be able to create things (incl. programming) in a proficient manner
-        § TODO quiz on the site, questions and answers read article again
-    ○ read  https://learn.wordpress.org/lesson-plan/high-level-overview/
-        § TODO quiz on the site, questions and answers read article again
-    ○ lesson  https://learn.wordpress.org/lesson-plan/general-history-of-wordpress/
-        § TODO specifics
-
-    ○ video on WP 6.1
-        § https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/
-    ○ Google a site of your choice, which discusses learning wordpress
-    ○ wp sites  https://wordpress.org/showcase/
-        § TODO quiz / what to do
-        § come up with at least three (3) questions that come up during reading the site, and try to find their answers by googling. these can be e.g. for you new technical terms
-    ○ TODO note actual time of watching videos + prepare a list of active things to do while watching videos (at least try out all things described in the video). Mention that we'll get back to these later, this is just for taking a crash course and  
-• Instructinal video on getting a simple free wp site up and running (brief testing of features concurrently with the theory part of phase I)
-• important links
-• general theory e.g. web hosting, web hotel, cloud hosting
-    ○ overview of hosting
-        § TODO articles
-        § discuss questions
-            □ what does hosting mean?
-            □ why paid hosting?
-            □ TODO more questions
     ○ videos
         § https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/
         § https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/
         § https://learn.wordpress.org/tutorial/introduction-to-wordpress/
-        § more videos in  https://wordpress.tv/tag/beginner/
-        § TODO incl questions + answers
-    ○ readings (wpbeginner articles)
-        § TODO
-        § TODO
-        § TODO incl questions + answers
-    ○ example wordpress sites (navigation)
-        § TODO
-        § TODO
-        § TODO incl questions + answers
-    ○ take a look at free vs paid plugins (video, and site examples)
-        § TODO
-        § TODO
-        § TODO incl questions + answers
+        § more videos in https://wordpress.tv/tag/beginner/
     ○ exercises on conceptual matters (leading towards applying)
 • Where to find information on wordpress related matters
-    ○ https://www.smashingmagazine.com/ front end development
+    ○ 
 • Test wordpress
-    ○ see how the new gutenberg editing looks like (cannot edit much though)  https://wordpress.org/gutenberg/
     ○ https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/ and select "Practise on a private demo site"
     ○ site and template editor video  https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/
     ○ TODO add more practical doing here
@@ -154,5 +120,4 @@ After registering to the SkillJet Academy, enroll into the free course "WP101". 
             □ edit block
             □ add block
             □ remove block
-        § TODO can this course be taken as-is?
-            □ how to enroll / is this free?
+
