@@ -26,7 +26,7 @@ Read the article and write down answers to the following questions. Do googling 
 4. 
 5. 
 
-[Solutions to Astra article on learning WordPress](./phaseI_solutions.md#astra-article-on-wordpress).
+[Solutions to Astra article on learning WordPress](./solutions.md#astra-article-on-wordpress).
 
 ### [Wikipedia article on WordPress](https://en.wikipedia.org/wiki/WordPress)
 
@@ -38,7 +38,7 @@ Read the article and write down answers to the following questions. Do googling 
 4. 
 5. 
 
-[Solutions to Wikipedia article on WordPress](./phaseI_solutions.md#wikipedia-article-on-wordpress).
+[Solutions to Wikipedia article on WordPress](./solutions.md#wikipedia-article-on-wordpress).
 
 ### [Introduction to blogging](https://wordpress.org/documentation/article/introduction-to-blogging/)
 
