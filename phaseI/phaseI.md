@@ -1,11 +1,8 @@
 ## Phase I Introduction 
 
 **Time duration: 1 week i.e. 5 business days**
+
 **Time off: 2 days i.e. weekend**
-
-TODO reference solutions file
-
-
 
 **TODO TOC**
 
@@ -41,13 +38,23 @@ Read the article and write down answers to the following questions. Do googling 
 
 ### [Introduction to blogging](https://wordpress.org/documentation/article/introduction-to-blogging/)
 
-TODO quiz + solutions
+Read the article and write down answers to the following questions. Do googling as necessary, or discuss with a tech friend, or maybe [ChatGPT](https://chat.openai.com/chat). 
+
+1. 
+2. 
+3. 
+4. 
+5. 
 
 ### [Difference between wordpress.com and wordpress.org](https://learn.wordpress.org/tutorial/what-is-the-difference-between-wordpress-org-and-com/)
 
-TODO quiz + solutions
+Read the article and write down answers to the following questions. Do googling as necessary, or discuss with a tech friend, or maybe [ChatGPT](https://chat.openai.com/chat). 
 
-- https://kinsta.com/knowledgebase/what-is-wordpress/
+1. 
+2. 
+3. 
+4. 
+5. 
   
 ## Set up WordPress with free trial hosting 
 
@@ -65,7 +72,9 @@ After the setup, log in to *wpadmin* by clicking the right corner in the previou
 
 ## Register Skilljet Academy free account 
 
-## WP crash course: SkillJet WP101 
+SkillJet Academy offers a free course on WordPress, the WP101. [Create a SkillJet Academy account](https://skilljet.io/login/) (it's free) and check out what they offer. 
+
+## Complete the WP crash course: SkillJet WP101 
 
 After registering to the SkillJet Academy, enroll into the free course "WP101". Go through the videos and during watching, take small breaks to experiment with the WordPress features on the namecheap site created in the beginning of this phase.
 
