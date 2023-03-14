@@ -80,10 +80,10 @@ A well-known learning taxonomy was developed by Benjamin Bloom that (in it's 199
 
 This curriculum introduces four (4) phases of learning, as follows: 
     
-- [Phase I: Get to know Wordpress](phaseI/index.md)
-- [Phase II: Essentials of WP in practice](phaseII/index.md)
-- [Phase III: Core WP skills](phaseIII/index.md)
-- [Phase IV: Expanding WP proficiency](phaseIV/index.md)
+- [Phase I: Get to know Wordpress](phaseI/content.md)
+- [Phase II: Essentials of WP in practice](phaseII/content.md)
+- [Phase III: Core WP skills](phaseIII/content.md)
+- [Phase IV: Expanding WP proficiency](phaseIV/content.md)
 
 Let's go over the phases and their content by taking a high-level view. 
 
