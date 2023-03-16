@@ -109,15 +109,13 @@ Time off: 2 days (weekend)
     
 ### Phase II: Essentials of WP in practice
 
-- create a simple wp site
-  - get to know more of the essentials in practice
-  - utilise free WP themes and plugins
+Create a simple wp site for an imaginary customer. Get to know more of the essentials in practice. Utilise free WP themes and plugins
 
-- learn core concepts by doing + reading theory
+In phase II, you learn the core concepts by doing + reading theory. Assignments consist of 
   - step by step instructions on tasks to do + quizzes
   - reading + quizzes
 
-  time allocation: 2 to 3 weeks
+time allocation: 2 to 3 weeks + free time until the end of week 3 
     
 ### Phase III: Core WP practical skills
 
@@ -126,7 +124,7 @@ learn more on wp theory
 site management things: analytics, seo, ...
 automation: wp-cli
 
-time allocation: 3 to 4 weeks 
+time allocation: 3 to 4 weeks + one week of holiday afterwards 
     
 ### Phase IV: Expanding WP proficiency
 

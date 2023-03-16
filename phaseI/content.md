@@ -9,6 +9,7 @@
 - incorporate learning of tech concepts into the Phase I curriculum 
 - add ToC
 - see video https://wordpress.tv/2022/11/17/wordpress-6-1-exploration/ on whether it's suitable for Phase I
+- incorporate wordpress courses into phase I and phase II, with testing in online editor (gutenberg) https://learn.wordpress.org/courses/
 
 
 
@@ -60,13 +61,19 @@ Read the article and write down answers to the following questions. Do googling 
 4. 
 5. 
   
+## Test WordPress
+
+Test wordpress: https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/ and select "Practise on a private demo site"
+
+TODO exercises etc.
+
 ## Set up WordPress with free trial hosting 
 
 [Namecheap](https://www.namecheap.com/wordpress/) has been around for quite some time and offers a free trial of 30 days of wp hosting. 
 
 Create a Namecheap account and choose whatever settings you like for the wp site. Below, you'll see an example wp site view in Namecheap: 
 
-![WordPress on Namecheap](phaseI_images/namecheap_wp_site_overview_20230313.png)
+ ![WordPress on Namecheap](phaseI_images/namecheap_wp_site_overview_20230313.png)
 
 After the setup, log in to *wpadmin* by clicking the right corner in the previous view and you should now have a site that looks similar to the one below: 
 
@@ -101,18 +108,18 @@ The last part of phase I is to check out existing wp sites. You find them easily
 
 - [High level view of WordPress (lesson plan)](https://learn.wordpress.org/lesson-plan/high-level-overview/). A nice recap of essentials at this point in learning.
 
+- videos: TODO watch to see if they are phase I or phase II
+  - https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/
+  - https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/
+  - https://learn.wordpress.org/tutorial/introduction-to-wordpress/
+  - more videos in https://wordpress.tv/tag/beginner/
+
+
 ## Unorganized 
 
-    ○ videos
-        § https://wordpress.tv/2022/11/18/starting-fresh-on-wordpress-part-1/
-        § https://wordpress.tv/2022/12/17/starting-fresh-on-wordpress-part-2/
-        § https://learn.wordpress.org/tutorial/introduction-to-wordpress/
-        § more videos in https://wordpress.tv/tag/beginner/
     ○ exercises on conceptual matters (leading towards applying)
 • Where to find information on wordpress related matters
     ○ 
-• Test wordpress
-    ○ https://learn.wordpress.org/course/simple-site-design-with-full-site-editing/ and select "Practise on a private demo site"
     ○ site and template editor video  https://learn.wordpress.org/tutorial/intro-to-the-site-editor-and-template-editor/
     ○ TODO add more practical doing here
         § TODO practice and define exercise
